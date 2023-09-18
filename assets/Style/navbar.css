@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'playfairRegular';
+    src: url('../Font/PlayfairDisplaySC-Regular.ttf');
+}
+
 .container-fluid{
     background-color: #2AA3B2;
     padding: 0;
@@ -9,4 +14,5 @@
 .navbar{
     padding: 0;
     height: 5%;
+    font-family: 'playfairRegular', serif;
 }
